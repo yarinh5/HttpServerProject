@@ -25,12 +25,11 @@ This project is a basic HTTP server implemented in C++ that supports multi-threa
 
 Using GCC/Clang:
 
-bash
 Copy code
 g++ -std=c++11 -pthread -o HttpServer main.cpp server.cpp ThreadPool.cpp
 Using MSVC:
 
-bash
+```bash
 Copy code
 cl /EHsc /std:c++11 main.cpp server.cpp ThreadPool.cpp
 Run the server:
