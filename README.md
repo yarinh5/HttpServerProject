@@ -20,7 +20,7 @@ This project is a basic HTTP server implemented in C++ that supports multi-threa
    ```bash
    git clone https://github.com/USERNAME/HttpServerProject.git
    cd HttpServerProject
-
+```
    Compile the code:
 
 Using GCC/Clang:
